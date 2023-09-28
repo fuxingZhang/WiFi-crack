@@ -1,6 +1,6 @@
-# WiFi-crack
+# WiFi-cracker
 
-WiFi crack by Golang
+WiFi cracker by Golang
 
 > For testing purposes only
 
