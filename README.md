@@ -10,7 +10,9 @@ WiFi cracker by Golang
 
 - Windows
 
-### Language: Simplified Chinese
+### Language
+
+- Simplified Chinese
 
 You can support other languages by modifying the following variables in `pkg/setting/stat.go`:
 
